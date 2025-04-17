@@ -60,8 +60,8 @@
   <h2 id="installation-guide">📥 Installation Guide</h2>
     
    <h3>1. Clone the Repository</h3>
-    <pre><code>git clone https://github.com/yourusername/pcap-analyzer.git
-cd pcap-analyzer</code></pre>
+    <pre><code>https://github.com/7yr4nT/pcap-analyst.git
+cd pcap-analyst</code></pre>
     
    <h3>2. Install Dependencies</h3>
     <pre><code>pip install -r requirements.txt</code></pre>
