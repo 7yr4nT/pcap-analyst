@@ -226,12 +226,7 @@ pyfiglet==0.8.post1  # Fancy banners (optional)</code></pre>
     <p>❌ <strong>"GeoIP database not found"</strong> → Download <code>GeoLite2-Country.mmdb</code> and place in <code>data/</code>.<br>
     ❌ <strong>"Missing dependencies"</strong> → Run <code>pip install -r requirements.txt</code>.</p>
     
-  <h3>Need Help?</h3>
-    <p>📌 <strong>Open an Issue</strong> on GitHub for support.</p>
-
-   <h2 id="license">📜 License</h2>
-    <p><strong>MIT License</strong> – Free to use, modify, and distribute. See <a href="LICENSE">LICENSE</a> for details.</p>
-
+ 
    <h2>🚀 Ready to Analyze PCAPs?</h2>
     <pre><code>python pcap_analyzer.py -i</code></pre>
     <p>Happy hunting! 🕵️‍♂️🔍</p>
