@@ -80,11 +80,11 @@ cd pcap-analyst</code></pre>
   <h2 id="usage-instructions">🚀 Usage Instructions</h2>
     
    <h3>1. Interactive Mode (Recommended for Beginners)</h3>
-    <pre><code>python pcap_analyzer.py -i</code></pre>
+    <pre><code>python pcap_analyst.py -i</code></pre>
     <p>Follow the on-screen prompts to configure and run the analysis.</p>
     
   <h3>2. Command-Line Mode (For Automation)</h3>
-    <pre><code>python pcap_analyzer.py samples/suspicious_traffic.pcap -o json -v</code></pre>
+    <pre><code>python pcap_analyst.py samples/suspicious_traffic.pcap -o json -v</code></pre>
     
    <h4>Arguments:</h4>
     <table>
@@ -228,7 +228,7 @@ pyfiglet==0.8.post1  # Fancy banners (optional)</code></pre>
     
  
    <h2>🚀 Ready to Analyze PCAPs?</h2>
-    <pre><code>python pcap_analyzer.py -i</code></pre>
+    <pre><code>python pcap_analyst.py -i</code></pre>
     <p>Happy hunting! 🕵️‍♂️🔍</p>
 </body>
 </html>
